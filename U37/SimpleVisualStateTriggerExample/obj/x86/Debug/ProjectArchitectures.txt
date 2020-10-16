@@ -1,0 +1,1 @@
+D:\Visual C#\Lap06-Visual-C-\U37\SimpleVisualStateTriggerExample\SimpleVisualStateTriggerExample.csproj;x86
